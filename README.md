@@ -1,1 +1,1 @@
-![alt text](https://alx-intranet.hbtn.io/projects/372)
+[Readme description](https://alx-intranet.hbtn.io/projects/372)
